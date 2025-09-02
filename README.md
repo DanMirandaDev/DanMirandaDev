@@ -1,7 +1,9 @@
 # Daniel Miranda Dev - Portafolio Web Front End
 
-![Portafolio](<img width="1904" height="915" alt="portafolios png" src="https://github.com/user-attachments/assets/8ef70b09-1140-41e3-8ba1-3cc0340bddb8" />
-)
+[Portafolio]
+<img width="1904" height="915" alt="portafolios png" src="https://github.com/user-attachments/assets/35cae675-50a9-4b03-b746-a13cf754d87b" />
+
+
 
 Este es el portafolio personal de **Daniel Miranda Oporto**, desarrollado con **Next.js**, **React** y **Tailwind CSS**. Muestra proyectos destacados, habilidades y experiencia en desarrollo web front end, con interfaces modernas, interactivas y optimizadas.
 
