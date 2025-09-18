@@ -1,6 +1,6 @@
 # Daniel Miranda Dev - Portafolio Web Front End
 
-[Portafolio]
+
 <img width="1904" height="915" alt="portafolios png" src="https://github.com/user-attachments/assets/35cae675-50a9-4b03-b746-a13cf754d87b" />
 
 
